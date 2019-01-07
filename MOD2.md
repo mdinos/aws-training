@@ -3,8 +3,11 @@
 ## Storage
 
 S3 Standard -> S3 Standard IA -> S3 One Zone IA -> Amazon Glacier (deep archive)
+
 Quickest -> slowest access
+
 Most expensive -> cheapest
+
 IA -> "Infrequent access"
 
 ## S3
