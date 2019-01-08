@@ -117,7 +117,7 @@ Routing options:
 - Health check and DNS failover
 - Geolocation routing
 - Geoproximity routing with traffic biasing
-- multi-value answers
+- Multi-value answers
 
 
 
