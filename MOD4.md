@@ -40,8 +40,11 @@ Private ranges can be allocated for IP addressing in your VPC.
 ### CIDR Example
 
 0.0.0.0/0	= All IPs
+
 10.22.33.44/32  = 10.22.33.44
+
 10.22.33.0/24   = 10.22.33.*
+
 10.22.0.0/16    = 10.22.*.*
 
 ## Subnets
