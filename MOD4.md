@@ -19,7 +19,7 @@ What is it?:
 
 There is a hard limit of 5 VPCs per region per account.
 
-####Use cases:####
+#### Use cases: ####
 One VPC:
 - Small single applications managed by 1 person or a small team
 - High performance computing
