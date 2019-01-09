@@ -8,3 +8,6 @@ https://aws.amazon.com/about-aws/whats-new/2018/12/announcing-15-free-digital-tr
 
 #### Exam Steps (Architect Associate tab)
 https://aws.amazon.com/certification/certification-prep/
+
+#### eBook URL
+https://evantage.gilmoreglobal.com/
