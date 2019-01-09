@@ -1,2 +1,3 @@
 # aws-training
-my aws training files
+
+From 3 day architect associate training course.
