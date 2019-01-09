@@ -61,10 +61,6 @@ Different types:
 - Too many is better than too few
 - Easy to modify
 
-#### Architectural configurations
-
-
-
 #### AMIs
 
 AMIs are essentially just the state in which your instance is launched.
