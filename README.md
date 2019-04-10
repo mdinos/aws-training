@@ -1,3 +1,3 @@
-# aws-training
+# mdinos/learning
 
-From 3 day architect associate training course.
+This is where I keep my notes in markdown from computing based courses/books I have taken/read.
